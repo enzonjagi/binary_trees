@@ -60,6 +60,7 @@ Don't forget to give the project a star! Thanks again!
 ## Contributors
 
 Njagi Ndungo - [@\_chief\_\_omar](https://twitter.com/_chief__omar) - amosndungo@gmail.com
+<br/>
 Miheret Tadesse -
 
 Project Link: [https://github.com/enzonjagi/binary_trees](https://github.com/enzonjagi/binary_trees)
